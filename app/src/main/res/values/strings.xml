@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lesson5</string>
+    <string name="hello">Hello</string>
+    <string name="ButtonFalse">False</string>
+    <string name="ButtonTrue">True</string>
+    <string name="PreviousButton">Previous</string>
+    <string name="NextButton">Next</string>
+    <string name="Question">Question</string>
+</resources>
