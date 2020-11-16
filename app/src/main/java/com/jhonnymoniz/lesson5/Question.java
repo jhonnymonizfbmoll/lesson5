@@ -1,8 +1,8 @@
 package com.jhonnymoniz.lesson5;
 
 public class Question {
-    private String question = null;
-    private boolean answer = true;
+    private String question;
+    private boolean answer;
 
     public String getQuestion() {
         return question;
